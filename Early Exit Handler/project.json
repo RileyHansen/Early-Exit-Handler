@@ -1,0 +1,14 @@
+{
+  "name": "Early Exit Handler",
+  "description": "Automation Framework",
+  "main": "EarlyExitHandler.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6797.25980",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
